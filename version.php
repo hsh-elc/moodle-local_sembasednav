@@ -31,4 +31,5 @@ $plugin->requires = 2019052000;
 $plugin->maturity = MATURITY_ALPHA;
 $plugin->dependencies = [
     'customfield_semester' => 2020041301,
+    'local_boostnavigation' => 2020111600
 ];
